@@ -3,7 +3,7 @@
  - For every new gameplay, it generates a random maze (world) using random DFS traversal (i.e. by visiting neigbouring 4 grid cells in a random order) in a grid.
 
  <p align="center">
-   <img src="Packman%20in%20the%20dark.gif" alt="animated" />
+   <img src="Packman%20in%20the%20dark.gif" alt="animated" width="400" height="400"/>
  </p>
 
 # Build Instructions
