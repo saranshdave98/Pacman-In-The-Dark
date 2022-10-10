@@ -5,4 +5,6 @@
  - Setup OpenGL, GLEW, and FreeGLUT in Visual Studios as per the instructions at https://openglbook.com/blog/setting-up-opengl-glew-and-freeglut-in-visual-c/.
  - Run the repository as Visual Studios Project.
 
+# Build Instructions
+
 ![Drag Racing](quick-start.jpg)
