@@ -1,0 +1,1 @@
+Setup glew and freeglut on visual studios as per https://openglbook.com/blog/setting-up-opengl-glew-and-freeglut-in-visual-c/

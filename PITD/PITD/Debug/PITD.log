@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(118): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\spider-man\onedrive\documents\visual studio 2015\projects\opengl_1\opengl_1\main.cpp(120): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  OpenGL_1.vcxproj -> C:\Users\Spider-Man\OneDrive\Documents\Visual Studio 2015\Projects\OpenGL_1\Debug\OpenGL_1.exe
+  OpenGL_1.vcxproj -> C:\Users\Spider-Man\OneDrive\Documents\Visual Studio 2015\Projects\OpenGL_1\Debug\OpenGL_1.pdb (Full PDB)
