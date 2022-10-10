@@ -12,4 +12,4 @@
 
 # Gameplay Instructions
 
-![Drag Racing](quick-start.jpg)
+![Quick-Start](quick-start.jpg)
