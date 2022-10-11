@@ -6,7 +6,7 @@
    <img src="Packman%20in%20the%20dark.gif" alt="animated" width="400" height="400"/>
  </p>
 
-# Build Instructions
+# Setup Instructions
  - Setup OpenGL, GLEW, and FreeGLUT in Visual Studios as per the instructions at https://openglbook.com/blog/setting-up-opengl-glew-and-freeglut-in-visual-c/.
  - Run the repository as Visual Studios Project.
 
