@@ -13,3 +13,10 @@
 # Gameplay Instructions
 
 ![Quick-Start](quick-start.jpg)
+
+# Technologies used
+ - C++
+ - Visual Studios
+ - OpenGL
+ - GLEW
+ - FreeGLUT
