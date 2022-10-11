@@ -14,7 +14,7 @@
 
 ![Quick-Start](quick-start.jpg)
 
-# Technologies used
+# Technologies Used
  - C++
  - Visual Studios
  - OpenGL
