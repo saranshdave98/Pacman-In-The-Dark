@@ -1,5 +1,5 @@
 # Pacman-In-The-Dark
- - This is a modified version of the classic Pacman game where packman needs to exit a dark maze with only a limited visibilty that diminishes with time.
+ - This is a modified version of the classic Pacman game where pacman needs to exit a dark maze with only a limited visibilty that diminishes with time.
  - For every new gameplay, it generates a random maze (world) using random DFS traversal (i.e. by visiting neigbouring 4 grid cells in a random order) in a grid.
 
  <p align="center">
